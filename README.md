@@ -1,7 +1,3 @@
-# ==============================
-# BUSINESS INTELLIGENCE DASHBOARD
-# Deep-Dive, Interactive, Automated
-# ==============================
 
 import streamlit as st
 import pandas as pd
